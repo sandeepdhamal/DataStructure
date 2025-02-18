@@ -33,7 +33,7 @@ public class Main {
 
 //        LinkedList linkedList = new LinkedList();
 //        linkedList.insertAtBeginning(12);
-////        linkedList.insertAtBeginning(11);
+//        linkedList.insertAtBeginning(11);
 //        linkedList.insertAtEnd(13);
 //        linkedList.insertAtEnd(908);
 //        linkedList.insertAtEnd(1232);
